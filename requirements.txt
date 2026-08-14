@@ -1,1 +1,2 @@
-This tells Streamlit's servers to install the Streamlit library when spinning up your app
+streamlit
+pandas
